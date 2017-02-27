@@ -1,0 +1,101 @@
+/*Home Tab*/
+
+#backgroundhome{
+    background: url('http://il6.picdn.net/shutterstock/videos/13905140/thumb/1.jpg') no-repeat 0 0 scroll;
+    background-color:#0C0C0C;
+    background-size: 100% 100%;
+    height:100%;
+    width:100%;
+}
+
+p.home
+{
+  color: green;
+  font-family: "Lucida Console";
+}
+
+nav.home div
+{
+    background-color: black;
+    text-align: center;
+}
+/*Home Tab*/
+
+/*Aboue Me Tab*/
+#backgroundaboutme{
+    background: url('http://www.imagestowallpapers.com/wp-content/uploads/2015/12/Background-Image-CSS4.jpg') no-repeat 0 0 scroll;
+    background-color:#0C0C0C;
+    background-size: 100% 100%;
+    height:100%;
+    width:100%;
+}
+
+nav.aboueme div
+{
+    background-color: #d27979;
+    text-align: left;
+}
+
+.navigationaboutme {
+    color: white;
+    text-decoration: none;
+  }
+/*Aboue Me Tab*/
+
+
+#backgroundmajor{
+    background: url('http://www.imagestowallpapers.com/wp-content/uploads/2015/12/Background-Image-CSS.jpg') no-repeat 0 0 scroll;
+    background-color:#0C0C0C;
+    background-size: 100% 100%;
+    height:100%;
+    width:100%;
+}
+
+
+#backgroundfact{
+    background: url('http://orig10.deviantart.net/c9a5/f/2014/121/0/3/meepo_dota_2_wallpaper_clean_by_css101-d7go9t6.jpg') no-repeat 0 0 scroll;
+    background-color:#0C0C0C;
+    background-size: 100% 100%;
+    height:100%;
+    width:100%;
+}
+
+table{
+  text-align: left;
+}
+
+tr th {
+    width: 150px;
+    font-weight: bold;
+    text-decoration: underline
+}
+
+
+td:nth-child(even) {background: #25BBB2}
+td:nth-child(odd) { background: #92986F}
+
+td:hover{
+  color: #F0F0F0;
+  background: #E16F7C}
+
+  nav div
+  {
+      background-color: skyblue;
+      border-style: solid;
+  }
+
+.navigation {
+    color: red;
+    text-decoration: none;
+  }
+
+.nav_tab:hover {
+      color: yellow;
+      text-decoration: underline;
+    }
+
+#navigation{
+  color: blue;
+  font-weight: bold;
+  text-decoration: none;
+}
