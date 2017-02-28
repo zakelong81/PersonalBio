@@ -30,7 +30,7 @@ nav.home div
     width:100%;
 }
 
-nav.aboueme div
+nav.aboutme div
 {
     background-color: #d27979;
     text-align: left;
@@ -46,7 +46,7 @@ nav.aboueme div
 #backgroundmajor{
     background: url('http://www.imagestowallpapers.com/wp-content/uploads/2015/12/Background-Image-CSS.jpg') no-repeat 0 0 scroll;
     background-color:#0C0C0C;
-    background-size: 100% 100%;
+    background-size: 150% 150%;
     height:100%;
     width:100%;
 }
@@ -99,3 +99,7 @@ td:hover{
   font-weight: bold;
   text-decoration: none;
 }
+
+span.note {
+font-size: 120%;
+color: red;}
